@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timeinterval_array">
+        <item>1   minute</item>
+        <item>5   minutes</item>
+        <item>15  minutes</item>
+        <item>30  minutes</item>
+        <item>1   hour</item>
+        <item>2   hours</item>
+    </string-array>
+</resources>
